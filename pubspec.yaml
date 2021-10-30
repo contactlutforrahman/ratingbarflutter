@@ -1,6 +1,6 @@
 name: rating_bar_flutter
 description: A new Flutter plugin for customisable Rating Bar with half rating support.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/contactlutforrahman/ratingbarflutter
 
 environment:
