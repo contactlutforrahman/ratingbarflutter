@@ -1,6 +1,6 @@
-# rating_bar_flutter_example
+# example
 
-Demonstrates how to use the rating_bar_flutter plugin.
+A new Flutter project.
 
 ## Getting Started
 
